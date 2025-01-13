@@ -1,3 +1,5 @@
-.stocknewsdata.csv 
-.finalfile.csv 
-.*pem
+stocknewsdata.csv 
+finalfile.csv 
+stock_ec2_key.pem
+testfile.csv
+testfile_2.csv
